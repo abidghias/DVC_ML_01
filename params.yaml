@@ -1,7 +1,7 @@
 # This contains params to be used by the stages to train or predict
 base:
   random_state: 42
-  test_size: 0.3
+  test_size: 0.5
 
 model_params:
   ElasticNet:
